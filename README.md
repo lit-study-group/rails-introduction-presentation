@@ -3,7 +3,7 @@
 How to run
 
 ```
-npm install -g grunt-cli bower
+npm install -g grunt-cli bower yo
 npm install
 bower install
 grunt server
