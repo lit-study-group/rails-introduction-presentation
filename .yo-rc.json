@@ -1,0 +1,7 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Rails入門のスライド",
+    "packageVersion": "0.1.0",
+    "useSass": true
+  }
+}
