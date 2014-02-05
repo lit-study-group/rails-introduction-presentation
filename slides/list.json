@@ -1,4 +1,9 @@
 [
     "index.md",
-    "toc.md"
+    "toc.md",
+    [
+        "http.md",
+        "http-request.md",
+        "http-response.md"
+    ]
 ]
