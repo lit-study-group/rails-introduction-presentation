@@ -53,7 +53,7 @@ module.exports = (grunt) ->
     coffeelint:
       options:
         indentation:
-          value: 4
+          value: 2
       all: ['Gruntfile.coffee']
 
     jshint:
