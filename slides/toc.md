@@ -2,8 +2,8 @@
 
 * 予備知識
   * HTTPの基礎
+  * HTML/CSSの基礎
   * ウェブアプリの基礎
-  * Railsとの関係
 * Railsの概要
   * Model
   * View

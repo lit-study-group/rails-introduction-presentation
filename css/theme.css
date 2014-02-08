@@ -146,3 +146,10 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #13daec; }
+
+.half {
+  width: 50%; }
+  .half.left {
+    float: left; }
+  .half.right {
+    float: right; }
