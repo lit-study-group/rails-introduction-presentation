@@ -3,7 +3,7 @@
 * **HTML**はウェブページの**中身**
 * **CSS**はウェブページの**見た目**
 
-<br style="clear: both;">
+<br class="clear">
 
 <div class="half left">
 <h4>HTML</h4>
