@@ -13,7 +13,13 @@
         "html.md",
         "html-example.md"
     ],
-    "css.md",
+    [
+        "no-css.md",
+        "css.md"
+    ],
+    "rails.md",
+    "rails-sample-app.md",
+    "routing.md",
     "new-app.md",
     [
         "article-scaffold.md",

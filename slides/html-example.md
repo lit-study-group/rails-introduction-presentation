@@ -1,5 +1,7 @@
 ## HTMLのサンプルページ
 
+エディタに入れてブラウザで開いてみる.
+
 <div class="half left">
 <pre><code data-trim>
 &lt;!doctype html&gt;
@@ -9,10 +11,10 @@
     &lt;meta charset="utf-8"&gt;
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;h1&gt;記事一覧&lt;/h1&gt;
+    &lt;h1 id="main-title"&gt;記事一覧&lt;/h1&gt;
     &lt;section&gt;
       &lt;h2&gt;初めての記事&lt;/h2&gt;
-      &lt;p&gt;初めての日記の内容です。&lt;/p&gt;
+      &lt;p class="content"&gt;初めての日記の内容です。&lt;/p&gt;
     &lt;/section&gt;
   &lt;/body&gt;
 &lt;/html&gt;
