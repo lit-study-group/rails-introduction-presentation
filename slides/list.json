@@ -19,5 +19,15 @@
         "article-migration.md",
         "article-confirmation.md",
         "article-test.md"
+    ],
+    [
+        "seeds.md",
+        "seeds-confirmation.md"
+    ],
+    [
+        "validation.md",
+        "validation-confirmation.md",
+        "validation-unit-test.md",
+        "validation-unit-test-confirmation.md"
     ]
 ]
