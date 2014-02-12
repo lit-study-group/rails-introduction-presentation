@@ -5,6 +5,7 @@
         "http.md",
         "http-request.md",
         "http-response.md",
+        "http-curl.md",
         "http-browser-request.md"
     ],
     "html-css.md",
