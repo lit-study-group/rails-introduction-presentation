@@ -156,3 +156,11 @@ body {
     float: left; }
   .half.right {
     float: right; }
+
+pre {
+  letter-spacing: 0.1em; }
+
+pre, code, var, samp, kbd, .mono, .keyword, .axapta {
+  font-family: Consolas, 'Courier New', Courier, Monaco, monospace !important; }
+  pre span, code span, var span, samp span, kbd span, .mono span, .keyword span, .axapta span {
+    margin: 0 !important; }

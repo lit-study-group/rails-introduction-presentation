@@ -12,6 +12,12 @@
         "html.md",
         "html-example.md"
     ],
-    "css.md"
-
+    "css.md",
+    "new-app.md",
+    [
+        "article-scaffold.md",
+        "article-migration.md",
+        "article-confirmation.md",
+        "article-test.md"
+    ]
 ]

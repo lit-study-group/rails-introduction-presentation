@@ -5,9 +5,20 @@
 .half {
   width: 50%;
   &.left {
-    float: left;  
+    float: left;
   }
   &.right {
-    float: right;  
+    float: right;
+  }
+}
+
+pre {
+  letter-spacing: 0.1em;
+}
+
+pre, code, var, samp, kbd, .mono, .keyword, .axapta {
+  font-family: Consolas, 'Courier New', Courier, Monaco, monospace !important;
+  span{
+    margin:0 !important;
   }
 }
