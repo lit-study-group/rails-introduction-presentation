@@ -9,7 +9,8 @@
     ],
     "html-css.md",
     [
-        "html.md"
+        "html.md",
+        "html-example.md"
     ],
     "css.md"
 
