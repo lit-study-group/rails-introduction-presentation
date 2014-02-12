@@ -32,6 +32,8 @@
         "model.md",
         "model-example.md"
     ],
+    "migrations.md",
+    "view.md",
     "new-app.md",
     [
         "article-scaffold.md",

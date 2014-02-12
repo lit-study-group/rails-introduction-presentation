@@ -10,6 +10,8 @@ http://myapp.com/foo
 
 ソースコードは[Github](https://github.com/lit-study-group/rails-url-shortener)に公開.
 
+アプリケーションは[Heroku](http://rails-url-shortener.herokuapp.com/)に公開.
+
 アプリをローカルで動かす.
 
 ```
