@@ -17,3 +17,4 @@ end
 * `resources :sites`は`SitesController`へのルートの生成
 * `get`は`GET`メソッド
 * `:token`は`token`という名前で入る任意パラメータ
+* `bundle exec rake routes`ですべてのルートを確認

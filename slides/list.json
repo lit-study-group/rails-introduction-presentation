@@ -23,6 +23,11 @@
     "rails.md",
     "rails-sample-app.md",
     "routing.md",
+    [
+        "controller.md",
+        "controller-simple-methods.md",
+        "controller-complex-methods.md"
+    ],
     "new-app.md",
     [
         "article-scaffold.md",
