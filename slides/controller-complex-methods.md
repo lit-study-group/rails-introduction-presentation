@@ -8,7 +8,7 @@
 class SitesController < ApplicationController
   ...
   def create
-    @site = Site.new(site_params)
+    @site = Site.new(site_params)  # Site.new(params[:site])にすると？
     if @site.save
       redirect_to @site
     else
