@@ -61,5 +61,11 @@
         "category-add-id-to-article.md",
         "category-add-relationship.md",
         "category-test.md"
+    ],
+    [
+        "category-view.md",
+        "category-controller.md",
+        "category-controller-confirmation.md",
+        "category-controller-strong-parameter.md"
     ]
 ]
