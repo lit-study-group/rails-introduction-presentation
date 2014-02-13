@@ -50,5 +50,10 @@
         "validation-confirmation.md",
         "validation-unit-test.md",
         "validation-unit-test-confirmation.md"
+    ],
+    [
+        "controller-test.md",
+        "controller-test-overview.md",
+        "controller-test-confirmation.md"
     ]
 ]
