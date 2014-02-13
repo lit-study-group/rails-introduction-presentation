@@ -23,4 +23,6 @@ git add .
 git commit -m "Initial commit."
 heroku create APP_NAME # 1回目だけ
 git push heroku master
+heroku run rake db:migrate
+heroku open
 ```
