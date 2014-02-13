@@ -55,5 +55,11 @@
         "controller-test.md",
         "controller-test-overview.md",
         "controller-test-confirmation.md"
+    ],
+    [
+        "category-scaffold.md",
+        "category-add-id-to-article.md",
+        "category-add-relationship.md",
+        "category-test.md"
     ]
 ]
