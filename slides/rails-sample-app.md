@@ -17,6 +17,7 @@ http://myapp.com/foo
 ```
 git clone https://github.com/lit-study-group/rails-url-shortener.git
 cd rails-url-shortener
+bundle install
 rake db:migrate
 rails server
 ```
